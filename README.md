@@ -1,0 +1,2 @@
+# gorelplay
+goreleaser play 
